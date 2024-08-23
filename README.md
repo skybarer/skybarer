@@ -1,4 +1,4 @@
-### Hi there 👋, I am Akash having 7+ years of experience working in various domains like telecom and banking.
+### Hi there 👋, I am Akash having 8+ years of experience working in various domains like telecom and banking.
 
 https://skybarer.github.io/
 <!--
