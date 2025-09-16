@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Akash having 8+ years of experience, working in various domains like telecom and banking sectors in software development.
 
-https://skybarer.github.io/
+https://skybarer.github.io/ -profile
 
 http://evarni.com/ - my own ecommerce website
 
