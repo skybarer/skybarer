@@ -4,7 +4,7 @@ https://skybarer.github.io/
 
 http://evarni.com/ - my own ecommerce website
 
-skybarer.github.io/storybook-static/ - my custom build react library for own purpose
+https://github.com/skybarer/rcl - my custom build react library for own purpose
 <!--
 **skybarer/skybarer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
